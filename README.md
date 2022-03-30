@@ -1,1 +1,3 @@
 # deneme
+
+pull deneme
